@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to mydoc's documentation!
+大家好！这是一个测试文档。
 =================================
 
 .. toctree::
@@ -11,7 +11,6 @@ Welcome to mydoc's documentation!
    :caption: Contents:
    
    Intro
-
 
 Indices and tables
 ==================
