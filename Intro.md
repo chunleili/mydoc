@@ -6,6 +6,6 @@ Hello World!
 
 测试图片
 
-![img1](/img/teaser.gif)
+![img1](/img/testpic.png)
 
 markdown解析器改为myST
